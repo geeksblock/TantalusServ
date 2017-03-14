@@ -1,6 +1,6 @@
 
 name="WizardName"
-url="http://www.filehosting.org/file/details/649102/Rct2jS1oCsoe1LVz/build%20(1).zip"
+url="http://www.filehosting.org/file/download/649102/Rct2jS1oCsoe1LVz"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 description="My new Wizard with help from Husham"
