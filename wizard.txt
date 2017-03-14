@@ -1,6 +1,6 @@
 
 name="WizardName"
-url="https://docs.google.com/uc?export=download&confirm=zxaF&id=0B1_Mu-TdZGH4ZVRPOWROZThvb1E"
+url="http://tantalusserv.com/kodi/build.zip"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 description="My new Wizard with help from Husham"
