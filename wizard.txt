@@ -1,8 +1,8 @@
 
-name="WizardName"
+name="Wizard"
 url="http://tantalusserv.com/kodi/build.zip"
-img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
-fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
+img="http://tantalusserv.com/tantalusserv.jpg"
+fanart="http://tantalusserv.com/tantalusserv.jpg"
 description="My new Wizard with help from Husham"
 
 
