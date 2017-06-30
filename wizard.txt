@@ -3,6 +3,6 @@ name="Wizard"
 url="http://tantalusserv.com/kodi/build.zip"
 img="http://tantalusserv.com/tantalusserv.jpg"
 fanart="http://tantalusserv.com/tantalusserv.jpg"
-description="My new Wizard with help from Husham"
+description="New version of TantalusServ V-3.0"
 
 
